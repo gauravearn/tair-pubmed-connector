@@ -49,7 +49,7 @@ readTairNCBI("/Users/gauravsablok/Desktop/CodeCheck/release/ATH_GO_GOSLIM.txt", 
   lineage. The genome-wide comparison reveals the evolutionary generation of diversity in the 
   regulation of transcription.')]
 ```
-Gaurav Sablok \
+Gaurav  \
 Academic Staff Member \
 Bioinformatics \
 Institute for Biochemistry and Biology \
